@@ -1,0 +1,6 @@
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\bin\Debug\ClassLibraryClaims.dll
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\bin\Debug\ClassLibraryClaims.pdb
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\obj\Debug\ClassLibraryClaims.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\obj\Debug\ClassLibraryClaims.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\obj\Debug\ClassLibraryClaims.dll
+C:\Users\RC_Student_lab\source\repos\ClassLibraryClaims\obj\Debug\ClassLibraryClaims.pdb
